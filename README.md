@@ -1,5 +1,5 @@
 # drakon
-
+sometimes your local llm can act like a silly wh0re;
 A native GPU/AI telemetry cockpit fused with a live packet sniffer, in one
 window. Built for a workstation that hosts local models: it shows which process
 is driving the GPU and burning VRAM, whether the card is throttling, and what
