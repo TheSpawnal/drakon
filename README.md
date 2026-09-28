@@ -1,5 +1,5 @@
 # drakon
-Most of the time your local llm act like a silly wh0re;
+Most of the time your local llm acts like a silly wh0re;
 Time to obliterate the fuckery; 
 
 A native GPU/AI telemetry cockpit fused with a live packet sniffer, in one
